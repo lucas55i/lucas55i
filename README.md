@@ -3,6 +3,17 @@
 [![Linkedin: Lucas](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-singh/)](https://www.linkedin.com/in/lucas-silva-correia-de-jesus-5a1696192/)
 
 I'm a Full stack Developer solving problems using tech-stack like Python, JavaScript, TypeScript and more.
+---
+**Tools**
+
+---
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lucas55i&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=lucas55i&theme=dark&hide_border=true" width = 400>
+</p>
+
+
 
 ---
 
@@ -23,11 +34,4 @@ I'm a Full stack Developer solving problems using tech-stack like Python, JavaSc
 | <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
-**Tools**
 
----
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lucas55i&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=lucas55i&theme=dark&hide_border=true" width = 400>
-</p>
